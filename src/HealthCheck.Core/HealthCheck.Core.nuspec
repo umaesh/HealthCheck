@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Hihaj.HealthCheck</id>
+    <version>$version$</version>
+    <authors>Anders Fjeldstad</authors>
+    <owners>Anders Fjeldstad</owners>
+    <licenseUrl>https://raw.githubusercontent.com/Hihaj/HealthCheck/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Hihaj/HealthCheck</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Flexible asynchronous healthcheck for apps.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Anders Fjeldstad 2015</copyright>
+    <tags>async healthcheck</tags>
+  </metadata>
+</package>
